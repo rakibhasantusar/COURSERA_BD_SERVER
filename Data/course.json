@@ -21,7 +21,7 @@
 	},
 	{
 		"id": "2",
-		"title": "Express Course",
+		"title": "Express.js Course",
 		"price": 122.3,
 		"description": "If you are unfamiliar with error handling in Express.js, I’ll highly recommend enrolling the course.This Node.js Certification course helps you to learn how to develop scalable web applications using Express",
 		"image": "https://miro.medium.com/max/800/1*9AbbVli10NreTXCpiVYEOQ.png",
