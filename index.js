@@ -12,16 +12,16 @@ app.get('/', (req, res) => {
     res.send('Coarsera-bd API running')
 })
 
-app.get('/courses', (req, res) => {
+app.get('/course', (req, res) => {
     res.send(categories)
 })
 
 
-app.get('/course', (req, res) => {
+app.get('/courses', (req, res) => {
     res.send(course)
 })
 
-app.get('/course/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     const id = req.params.id
     const selectedCourse = course.find(c => c.id === id)
     res.send(selectedCourse)

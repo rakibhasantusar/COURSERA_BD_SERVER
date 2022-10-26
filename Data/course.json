@@ -5,23 +5,59 @@
 		"price": 109.95,
 		"description": "In this course, you’ll learn more about NoSQL databases, MongoDB, its basic operations, and some of its more advanced features. By the end of the course, you’ll be able",
 		"image": "https://g.foolcdn.com/art/companylogos/square/mdb.png",
-		"rating": { "rate": 3.9, "count": 120 }
+		"rating": { "rate": 3.9, "count": 120 },
+		"details": "In this course, you’ll learn more about NoSQL databases, MongoDB, its basic operations, and some of its more advanced features. By the end of the course, MongoDB is a distributed database at its core, so high availability, horizontal scaling, and geographic distribution are built-in and easy to use. This MongoDB certification training will help you master the leading document-oriented NoSQL database, MongoDB Architecture, CRUD, Schema Design, Data Modelling, and Indexing using real-life case studies. Edureka’s best MongoDB course allows you to work on real-time projects that help in building your career.",
+		"list": [
+			"MongoDB Certification Course benefit from coursera",
+			"World-Class Instructors",
+			"Expert-Led Mentoring Sessions",
+			"Instant doubt clearing",
+			"Course Access Never Expires",
+			"Free Access to Future Updates",
+			"One-On-One Learning Assistance",
+			"Graded Performance Certificate",
+			"Infrastructure with Tools and Software"
+		]
 	},
 	{
 		"id": "2",
 		"title": "Express Course",
 		"price": 122.3,
-		"description": "If you are unfamiliar with error handling in Express.js, I’ll highly recommend enrolling the course.",
+		"description": "If you are unfamiliar with error handling in Express.js, I’ll highly recommend enrolling the course.This Node.js Certification course helps you to learn how to develop scalable web applications using Express",
 		"image": "https://miro.medium.com/max/800/1*9AbbVli10NreTXCpiVYEOQ.png",
-		"rating": { "rate": 4.1, "count": 259 }
+		"rating": { "rate": 4.1, "count": 259 },
+		"details": "If you are unfamiliar with error handling in Express.js, I’ll highly recommend enrolling the course.Node.js Certification Training is accredited by NASSCOM, aligns with industry standards, and approved by the Government of India. This Node.js Certification course helps you to learn how to develop scalable web applications using Express Framework and deploy them using Nginx. In this Node.js course, you will learn how to build applications backed by MongoDB and gain in-depth knowledge of REST APIs, implement testing, build applications using microservices architecture and build a real-time chat application using Socket IO.",
+		"list": [
+			"Express Certification Course benefit from coursera-BD",
+			"World-Class Instructors",
+			"Expert-Led Mentoring Sessions",
+			"Instant doubt clearing",
+			"Course Access Never Expires",
+			"Free Access to Future Updates",
+			"One-On-One Learning Assistance",
+			"Graded Performance Certificate",
+			"Infrastructure with Tools and Software"
+		]
 	},
 	{
 		"id": "3",
 		"title": "React Course",
 		"price": 155.99,
-		"description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+		"description": "React Certification Training will train you to build efficient React applications by mastering the concepts of React, Redux, and React Native. In this React Course, you will learn how to build simple components & integrate them into more complex design components.",
 		"image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png",
-		"rating": { "rate": 4.7, "count": 500 }
+		"rating": { "rate": 4.7, "count": 500 },
+		"details": "React Certification Training will train you to build efficient React applications by mastering the concepts of React, Redux, and React Native. In this React Course, you will learn how to build simple components & integrate them into more complex design components. After completing this React online training, you will be able to build the applications using React concepts such as JSX, Redux, Asynchronous Programming using Redux-Saga middleware, Fetch data using GraphQL, perform Testing using Jest, successively Deploy applications using Nginx and Docker, plus build Mobile applications using React Native",
+		"list": [
+			"React Certification Course benefit from coursera-BD",
+			"World-Class Instructors",
+			"Expert-Led Mentoring Sessions",
+			"Instant doubt clearing",
+			"Course Access Never Expires",
+			"Free Access to Future Updates",
+			"One-On-One Learning Assistance",
+			"Graded Performance Certificate",
+			"Infrastructure with Tools and Software"
+		]
 	},
 	{
 		"id": "4",
@@ -29,7 +65,19 @@
 		"price": 115.99,
 		"description": "A Node.js course is a great way to enter into web and mobile development. It can be used to build apps at any scale and is widely used to create applications of every sort. There is a great need for developers with working knowledge of Nodel.js at companies everywhere. Join millions and begin Node.js training with top rated instructors on coursera-bd",
 		"image": "https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com017.jpg",
-		"rating": { "rate": 2.1, "count": 430 }
+		"rating": { "rate": 2.1, "count": 430 },
+		"details": "A Node.js course is a great way to enter into web and mobile development. It can be used to build apps at any scale and is widely used to create applications of every sort. There is a great need for developers with working knowledge of Nodel.js at companies everywhere. Join millions and begin Node.js training with top rated instructors on coursera-bd,Node.js Certification Training is accredited by NASSCOM, aligns with industry standards, and approved by the Government of India. This Node.js Certification course helps you to learn how to develop scalable web applications using Express Framework and deploy them using Nginx. In this Node.js course, you will learn how to build applications backed by MongoDB and gain in-depth knowledge of REST APIs, implement testing, build applications using microservices architecture and build a real-time chat application using Socket IO.",
+		"list": [
+			"Node.js Certification Course benefit from coursera-BD",
+			"World-Class Instructors",
+			"Expert-Led Mentoring Sessions",
+			"Instant doubt clearing",
+			"Course Access Never Expires",
+			"Free Access to Future Updates",
+			"One-On-One Learning Assistance",
+			"Graded Performance Certificate",
+			"Infrastructure with Tools and Software"
+		]
 	},
 	{
 		"id": "5",
@@ -37,7 +85,19 @@
 		"price": 295,
 		"description": "JavaScript is among the most powerful and flexible programming languages of the web. It powers the dynamic behavior on most websites, including this one.You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation for using JavaScript in any environment.",
 		"image": "https://cdn.geekboots.com/geek/javascript-meta-1652702081069.jpg",
-		"rating": { "rate": 4.6, "count": 400 }
+		"rating": { "rate": 4.6, "count": 400 },
+		"details": "JavaScript is among the most powerful and flexible programming languages of the web. It powers the dynamic behavior on most websites, including this one.You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation for using JavaScript in any environment. JavaScript Certification Training Course is curated by industry experts to equip you with the skills necessary to design and develop interactive websites. This course is completely hands-on and you will get acquainted with core topics such as JavaScript variables, data types, functions, objects, classes, operators, parameters, and get familiar with advanced topics such as Script validation and API testing. ",
+		"list": [
+			"JavaScript Certification Course benefit from coursera-BD",
+			"World-Class Instructors",
+			"Expert-Led Mentoring Sessions",
+			"Instant doubt clearing",
+			"Course Access Never Expires",
+			"Free Access to Future Updates",
+			"One-On-One Learning Assistance",
+			"Graded Performance Certificate",
+			"Infrastructure with Tools and Software"
+		]
 	},
 	{
 		"id": "6",
@@ -45,6 +105,18 @@
 		"price": 168,
 		"description": "In this course, I will be covering all the basics of Python (in-depth lessons will be added later on) so that you can get started with the language very quickly.",
 		"image": "https://www.freecodecamp.org/news/content/images/2020/05/Python-language.png",
-		"rating": { "rate": 3.9, "count": 70 }
+		"rating": { "rate": 3.9, "count": 70 },
+		"details": "In this course, I will be covering all the basics of Python (in-depth lessons will be added later on) so that you can get started with the language very quickly.Python certification course online is created by experienced professionals to match the current industry requirements and demands. This Python course will help you master Python programming concepts such as Sequences and File Operations, Conditional statements, Functions, Loops, OOPs, Modules and Handling Exceptions, various libraries such as NumPy, Pandas, Matplotlib, and also focuses on GUI Programming, Web Maps, Data Operations in python and more.",
+		"list": [
+			"Python Certification Course benefit from coursera-BD",
+			"World-Class Instructors",
+			"Expert-Led Mentoring Sessions",
+			"Instant doubt clearing",
+			"Course Access Never Expires",
+			"Free Access to Future Updates",
+			"One-On-One Learning Assistance",
+			"Graded Performance Certificate",
+			"Infrastructure with Tools and Software"
+		]
 	}
 ]
